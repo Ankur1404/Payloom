@@ -38,6 +38,8 @@ Payloom is a subscription management system built with Node.js and Express, feat
     EMAIL_USER=your_email@gmail.com
     EMAIL_PASS=your_email_password
     ARCJET_API_KEY=your_arcjet_api_key
+    QSTASH_TOKEN=your_qstash_token
+    QSTASH_URL=your_qstash_url
     ```
 
 4. Start the server:
