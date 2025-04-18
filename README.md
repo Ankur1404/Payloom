@@ -1,5 +1,5 @@
 # PayLoom
-Payloom is a subscription management system built with Node.js and Express, featuring subscription creation, automatic renewals, and email notifications.
+Payloom is a backend-only subscription management system that handles subscription creation, automated reminders, and renewal notifications. This project currently focuses on backend functionality and does not include a user interface (UI). It's built to handle subscription workflows, integrate with external services (such as Arcjet for rate limiting and Upstash for real-time data storage), and send automated email notifications.
 
 ## Features
 
