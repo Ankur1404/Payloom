@@ -24,6 +24,9 @@ Payloom is a backend-only subscription management system that handles subscripti
     ```bash
     git clone https://github.com/Ankur1404/payloom.git
     cd payloom
+    # If your project folder is named 'subscription'
+    cd subscription
+
     ```
 
 2. Install the dependencies:
